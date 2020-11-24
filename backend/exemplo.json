@@ -1,0 +1,37 @@
+{
+  "viagem": [
+    {
+      "city": "Oslo",
+      "data": "2020-11-24T00:23:01.915Z",
+      "price": 2500
+    },
+    {
+      "city": "Egito",
+      "data": "2020-11-24T00:23:01.915Z",
+      "price": 1587
+    },
+    {
+      "city": "Barcelona",
+      "data": "2020-11-24T00:23:01.915Z",
+      "price": 2647
+    }
+  ],
+  "client": [
+    {
+      "name": "Maria",
+	    "rg": "15975345",
+	    "address": "Rua dos Antigos 201",
+      "trips": [
+        "id da viagem"
+      ]
+    },
+    {
+      "name": "Joao",
+      "rg": "14785296",
+      "address": "Rua dos Anfeneiros 202",
+      "trips": [
+        "id da viagem"
+      ]
+    }
+  ]
+}

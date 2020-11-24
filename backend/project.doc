@@ -1,0 +1,13 @@
+PARA ENTREGAR DIA 30/11
+
+1 CLIENTE pode fazer N VIAGENS
+
+1 VIAGEM é feita por 1 CLIENTE
+
+CLIENTE => nome, rg, endereço
+
+VIAGEM => cidade, data, preço
+
+paciente = viagem
+medico = cliente
+
